@@ -1,7 +1,7 @@
 #--------------------------------------
 #
 #   IDPA Rollende-Kugel
-#   Autor: Thomas Zwicker
+#   Autor: MuedeHydra
 #   Datum: 23.01.2024
 #   Version: 0.16
 #
